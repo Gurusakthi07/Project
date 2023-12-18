@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+}
+body{
+    background-color: azure;
+}
+
+
+table, tr, th, td, caption{
+    border: 1px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
